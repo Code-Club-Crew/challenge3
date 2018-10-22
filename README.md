@@ -1,4 +1,4 @@
-## Challenge2 - Formatting Output
+## Challenge3 - Accepting Arguments and Help Responses
 
 Use the [Star Wars API](https://www.swapi.co)
 - Arguments - Code should accept at lease 2 arguments with separate functions.
